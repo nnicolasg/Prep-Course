@@ -1,0 +1,9 @@
+Variable: Una variable es una caja que contiene un valor, como por ejemplo el numero 5. Cada vez que llamemos a esta caja, nos devolvera el valor que se le haya asignado.
+
+String: Es un tipo valor que es interpretado como texto, comunmente se lo define entre comillas.
+
+Funciones: Una funcion es un bloque de codigo que se ejecuta cada vez que la llamemos. Las funciones pueden aceptar argumentos, los cuales son informacion extra que la funcion analiza y produce un resultado determinado.
+
+Declaraciones: Una declaracion es una expresion que produce un resultado.
+
+Valores booleanos: Conocidos como true y false (verdadero y falso), se utilizan para chequear si una expresion o resultado es verdadero o falso.
