@@ -1,0 +1,7 @@
+for: for es un bucle que se utiliza para repetir instrucciones hasta que se complete una condicion especificada.
+
+&&: Es un operador logico que funciona como un "y", en caso de que ambas expresiones ("expresion1" && "expresion2") sean verdaderas el resultado sera verdadero (true). En caso de que una o ambas expresiones sean falsas el resultado sera falso (false).
+
+||: Operador logico que funciona como un "o", si una o ambas expresiones es verdadera entonces el resultado sera verdadero.
+
+!: Operador logico que revierte el valor de una expresion.
